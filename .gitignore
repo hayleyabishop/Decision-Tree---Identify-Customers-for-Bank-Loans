@@ -6,6 +6,9 @@
 # Great Learning's copyrighted data set
 Loan_Modelling.csv
 
+# Python modules
+node_modules/
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
