@@ -3,6 +3,9 @@
 # Great Learning's copyrighted Problem statement (assignment description)
 .problem_statement.md
 
+# Great Learning's copyrighted data set
+Loan_Modelling.csv
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
