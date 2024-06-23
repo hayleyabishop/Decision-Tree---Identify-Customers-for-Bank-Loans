@@ -1,10 +1,36 @@
 # after adding a file that was previously tracked, run git rm --cached
 
+### Personal Files ###
+
 # Great Learning's copyrighted Problem statement (assignment description)
 .problem_statement.md
 
 # Great Learning's copyrighted data set
 Loan_Modelling.csv
+
+# My file submission that's a pretty rough working copy
+*AIML_ML_Project_full_code_notebook.ipynb
+
+
+### Git ###
+# Created by git for backups. To disable backups in Git:
+# $ git config --global mergetool.keepBackup false
+*.orig
+
+# Created by git when using merge tools for conflicts
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*_BACKUP_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTE_*.txt
+
+*.code-workspace
+
+
+### Python ###
 
 # Python modules
 node_modules/
