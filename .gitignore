@@ -7,6 +7,9 @@
 
 # Great Learning's copyrighted data set
 Loan_Modelling.csv
+# >100MB; can't commit to GitHub.
+US.txt 
+
 
 # My file submission that's a pretty rough working copy
 *AIML_ML_Project_full_code_notebook.ipynb
